@@ -1,0 +1,8 @@
+stepdefinitions\Example.class
+stepdefinitions\GoogleSearch.class
+stepdefinitions\ActitimeLogin.class
+stepdefinitions\ActitimeTaskCreation.class
+stepdefinitions\SwagLabLogin.class
+stepdefinitions\VTigerLead.class
+stepdefinitions\OrangeHrmLogin.class
+runner\TestRunner.class
